@@ -1,6 +1,6 @@
 project(
     'libgbinder', 'c',
-    version : '1.1.11',
+    version : '1.1.9',
 )
 
 pc = import('pkgconfig')
